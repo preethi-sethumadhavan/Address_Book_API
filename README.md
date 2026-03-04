@@ -212,6 +212,3 @@ This project follows several best practices:
 
 ---
 
-## Author
-
-Developed as part of a FastAPI assignment to demonstrate backend development skills using Python and FastAPI.
